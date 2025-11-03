@@ -30,18 +30,6 @@ Berisi penggabungan tabel + kalkulasi:
 - Nett Profit
 - Rating Analisis
 
-## 📂 File Structure
-kimia-farma-analytics/
-├── queries/
-│ ├── create_analysis_table.sql
-│ └── analysis_queries.sql
-├── images/
-│ └── dashboard_screenshot.png
-├── README.md
-└── ppt/
-└── final_presentation.pdf
-
-
 ## 📈 Dashboard Features
 - KPI Scorecards (Sales, Profit, Transaction, Rating)
 - YoY Sales Trend
